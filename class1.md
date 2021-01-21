@@ -3,20 +3,19 @@
 
 ## Objectives
 
-Welcome to Introduction to Git and GitHub from fredhutch.io!
-This course is designed for researchers who are interested in version control for code or data files,
-and assumes no prior programming experience.
-There are no prerequisites for this course
-(though see below regarding the optional third class).
+Welcome to Introduction to Git and GitHub. This training is based on similar training modules from from fredhutch.io and Software Carpentry!
+At the outset, this course is designed for data scientists, engineers and all other data users at the PHAC Data Hub who are interested in version control for code or data files. Afterwards, the objective is to further branch this training for the benefit of all researchers, epidemiologists, economists and analysts. 
+ 
+There are no prerequisites for this course and no prior programming experience is required.
 
-This course will introduce you to
+While there are several other tools available, this course will introduce you to
 the Git Desktop application to manage version control on your own computer and
 GitHub to publish and collaborate with files tracked in remote repositories.
 The optional third class applies skills from the first two classes using Git on the command line,
 and requires some familiarity with navigating files and directories using the Unix commands.
 
 To complete the activities associated with this course,
-please ensure you have completed the following tasks (additional information can be found [here](http://www.fredhutch.io/software/#course-specific-software-requirements)):
+please ensure you have completed the following tasks:
 
 - register for a GitHub account
 - install GitHub Desktop (including the command line tools, if you are on a Windows computer and planning to complete the optional third session)
