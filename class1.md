@@ -57,9 +57,10 @@ with multiple individuals making changes at the same time,
 some of which may be inconsistent with each other and need to be reconciled.
 [Git](https://git-scm.com/about) is software that allows you to perform version control.
 [GitHub](https://help.github.com/en/github) is website for publishing and sharing projects that are tracked using Git.
-Git and GitHub are a very popular set of tools used by both academic and commercial organizations,
+Git and GitHub are a very popular set of tools used by government, academic and commercial organizations,
 and correspondingly,
 have well-developed help documentation and a large community of users to assist in their use.
+At PHAC and Health Canada, we also have access to Azure DevOps, which is a comparable tool and can be utilized for work that involves code and/or data that needs to reside on Protected B-certified infrastrucutre. 
 
 This class will give you a basic introduction to the general Git workflow to track changes to files.
 There are many additional resources available online through [GitHub](https://help.github.com/en/github) to help you along the way.
@@ -93,7 +94,6 @@ If not, please sign in using your account information.
 - "Integrations": this is where you can select a default text editor for opening files.
 It is not essential to have this set,
 but may be convenient.
-The [installation instructions](http://www.fredhutch.io/software/#course-specific-software-requirements) recommended Atom.
 In general,
 the default text editors on your computers
 (Notepad, TextEdit) will not work well for writing code.
@@ -109,13 +109,13 @@ and your particular needs.
 
 ## Creating a repository
 
-If you have taken Intro to R or Intro to Python through fredhutch.io,
+If you have used R or Python,
 you should be familiar with projects as a way to organize your work.
-A project is a single folder containing the files associated with a unit work work,
+A project is a single folder containing the files associated with a unit of work,
 like a chapter of a thesis/dissertation,
-analysis for a manuscript, or a monthly report.
+analysis for a two-pager, or a monthly report.
 
-> "Folder" and "directory" will be used interchangeable for the purposes of this lesson.
+> "Folder" and "directory" will be used interchangeably for the purposes of this lesson.
 > Similarly, "project" and "repository" are generally analogous for our purposes.
 
 Git tracks changes associated with repositories.
