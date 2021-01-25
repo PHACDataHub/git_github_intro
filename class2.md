@@ -32,12 +32,13 @@ on GitHub. By the end of this class, you should be able to:
 In our previous class, we focused on git for local repositories, which
 means applying version control for files and directories located on our
 own computers. In this class, we'll expand our understanding of version
-control to include working with remote repositories vit GitHub.
+control to include working with remote repositories via GitHub.
 
-GitHub is a web-based platform for sharing and collaborating with code
+GitHub is a cloud-based platform for sharing and collaborating with code
 and data. It allows you to create repositories that are publicly
 visible, or private but accessible to specific people to whom you
-provide permission.
+provide permission. In addition, there is an on-premise version known as
+Github Enterprise which PHAC/HC has access to as well.
 
 You registered for a GitHub account and used that information when
 setting up the GitHub Desktop app in [our previous class](class1.md). If
@@ -46,39 +47,31 @@ you can access a number of features including: - a profile, where you
 can include information about yourself - starring repositories and
 following other people - a timeline/newsfeed, which will include
 notifications about recent projects and activities for yourself and
-people you follow
+people you follow.
 
 In addition to individual accounts, groups of individuals working
 together can create [GitHub
 organizations](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams).
-There are two relevant GitHub organizations for us: -
-[fredhutch.io](https://github.com/fredhutchio): holds repositories
-containing course materials, as well as the code for the [fredhutch.io
-website](http://www.fredhutch.io). All of these are publicly available
-repositories. - [Fred Hutch](https://github.com/fredhutch): projects
-from Scientific Computing and other groups at Fred Hutch, as well as the
-code behind the [Fred Hutch Biomedical Data Science
-Wiki](https://sciwiki.fredhutch.org/). Many of these projects are
-public, although there are also some that are viewable only to members
-or specific teams.
+The relevant Github organization for us is
+<https://github.com/PHACDataHub>: this holds various repositories
+containing course materials, as well as the code for various PHAC Data
+Hub DS and Tech projects that can be hosted on the cloud-based Github.
+Many of these projects are public, although there are also some that are
+viewable only to members or specific teams.
 
-As a Fred Hutch affiliate, you are welcome to join the Fred Hutch GitHub
-organization. To learn how, as well as other information about this
-feature, please see the [Wiki GitHub
-page](https://sciwiki.fredhutch.org/scicomputing/software_managecode/#using-github-at-fred-hutch).
-
-> GitHub Teams are another way of organizing individual accounts and
-> providing permission to private repositories. The Wiki, for example,
-> includes a group of members from the Fred Hutch organization who
-> review submissions of content to the Wiki.
+As a PHAC affiliate, you are welcome to join the PHAC Data Hub GitHub
+organization. More information on the organization will be collated in a
+new Wiki page in the near future.
 
 Now that we've looked at accounts and organizations in GitHub, we can
 examine a few publicly available repositories.
 
 [**Intro to Git and
-GitHub**](https://github.com/fredhutchio/git_github_intro): The
+GitHub**](https://github.com/PHACDataHub/git_github_intro): The
 materials for this course are available in a repository, with each
-class' materials written in a Markdown (`.md`) file.
+class' materials written in a Markdown (`.md`) file. This repository was
+`forked` from a publicly available repo by [Fred
+Hutch](https://github.com/fredhutchio/git_github_intro).
 
 > [Markdown](https://guides.github.com/features/mastering-markdown/) is
 > a lightweight text-formatting language that allows creation of
