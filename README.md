@@ -8,7 +8,7 @@ This two-class course (with optional third class session) is designed to introdu
 
 ## Schedule
 
-* [Class 1](class1.md): introduction to version control, git workflow with desktop clients (tracking changes, branching, merging, ignoring things, branches)
+* [Class 1](class1.md): introduction to version control, git workflow with desktop clients (tracking changes, branching, merging, ignoring things)
 * [Class 2](class2.md): Collaboration and code sharing with GitHub, resolving conflicts
 * [Class 3](class3.md) (optional): git workflow on the command line
 * [Class 4](class4.md) (optional): GitHub Expanded workflows (Projects, Actions)
